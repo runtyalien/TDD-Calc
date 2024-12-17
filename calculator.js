@@ -4,6 +4,6 @@ export function add(numbers){
     return numArray.reduce((sum, num) => sum + parseInt(num, 10), 0);
 }
 
-const number = "1,2";
+const number = "1,2,3";
 
 console.log(add(number));
