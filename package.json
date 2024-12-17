@@ -1,7 +1,8 @@
 {
   "name": "tdd_calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "TDD Assignment for Incubyte",
+  "type":"module",
   "scripts": {
     "test": "jest",
     "start": "nodemon calculator.js"
